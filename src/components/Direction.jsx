@@ -30,8 +30,10 @@ export default function Direction() {
         }`}
       >
         <p className="direction-p">
-          Te esperamos para celebrar en Vivanco, Tigre a las 19:00 hs Gral.
-          Bartolomé Mitre 74, Tigre
+          Te esperamos para celebrar <br />
+          en Vivanco <br />
+          Gral. Bartolomé Mitre 74, Tigre <br />
+          19:00 hs
         </p>
         <a
           href="https://maps.app.goo.gl/SxCY8EY6nNo6Jnb39"

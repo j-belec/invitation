@@ -15,7 +15,7 @@ export default function Details() {
               <span>{isDressOpen ? "▲" : "▼"}</span>
             </div>
             <div className={isDressOpen ? "content show" : "content"}>
-              <p>Elegante*</p>
+              <p>Elegante</p>
               <p>
                 Los colores claros los reservamos para los novios, pero queremos
                 que brilles siendo vos.

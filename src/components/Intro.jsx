@@ -1,4 +1,4 @@
-import introImg from "../assets/intro-img.png";
+import introImg from "../assets/intro-img-2.png";
 
 export default function Intro() {
   return (
