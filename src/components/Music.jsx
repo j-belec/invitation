@@ -39,8 +39,8 @@ export default function Music() {
         <img
           src={isPlaying ? PauseIcon : PlayIcon}
           aria-hidden="true"
-          width={28}
-          height={28}
+          width={30}
+          height={30}
         />
       </button>
       <audio ref={audioRef} src={Cancion} preload="auto" loop />

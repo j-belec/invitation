@@ -232,7 +232,7 @@ a {
 .music-container {
   position: fixed;
   right: 20px;
-  bottom: 20px;
+  top: 20px;
   z-index: 100;
   animation: jump 2s infinite;
 }
@@ -242,8 +242,8 @@ a {
   align-items: center;
   justify-content: center;
   background-color: white;
-  width: 60px;
-  height: 60px;
+  width: 70px;
+  height: 70px;
   border-radius: 100%;
   border: 2px solid #2e2d2d;
 }
